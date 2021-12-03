@@ -7,3 +7,6 @@ Non funziona però se eseguito da dispositivi diversi (problemi con ROS_MASTER_U
 
 
 nota: su raspberry non sono riuscito a far funzionare catkin build e funziona solo il make
+
+
+C'è una versione in cpp e una in python
